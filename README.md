@@ -1,4 +1,4 @@
-# Find-the-Last-Trading-Day-in-the-Week
+# Find-the-Last-Trading-Day-of-the-Week
 
 In option resesarch, sometimes we need to find the last trading day of the week. Most weeks the day would be a Friday. But occasionally due to national holidays, it could be a Thursday. 
 
